@@ -1,4 +1,4 @@
-#This is a Youtube auto skip ad script 
+##This is a Youtube auto skip ad script 
 
 need to using Tampermonkey
 1. install Tampermonkey add to Chrome 
